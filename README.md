@@ -1,1 +1,1 @@
-# snake-game-test
+# snake-game-exercise-pratice.js
